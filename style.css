@@ -3,6 +3,38 @@ background-color: #cc6600;
 font-family: 'Great Vibes', cursive;
 }
 
+h2 {
+font-size: 60px;
+}
 h1 {
-font-size: 70px;
+	font-size: 65px;
+}
+
+img {
+	display: block;
+	height: 500px;
+	wighth: 450px;
+}
+
+
+#tittle {
+	background: red;
+	width: 600px;
+}
+
+#main {
+	background: white;
+	width: 1000px;
+}
+
+#main p {
+	color: red;
+}
+
+* {
+	border: red dashed 2px;
+}
+
+h2 {
+	margin: 5px;
 }
